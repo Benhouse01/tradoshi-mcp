@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.tradoshi/rankings",
+  "title": "Tradoshi rankings and research",
+  "description": "2027 rankings of trading schools and prop firms, every criterion sourced, plus market data",
+  "version": "1.3.1",
+  "websiteUrl": "https://tradoshi.com/en/developers",
+  "repository": {
+    "url": "https://github.com/Benhouse01/tradoshi-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://tradoshi.com/favicon-180.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tradoshi.com/mcp"
+    }
+  ]
+}
