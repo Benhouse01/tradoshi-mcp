@@ -141,7 +141,7 @@ Arguments:
 
 ## Data
 
-Scores, ranks and criteria come from the published Tradoshi 2027 rankings. The data is released under CC BY 4.0: cite Tradoshi and link to the profile page returned with each result. The method and the update schedule are described at https://tradoshi.com/en/developers.
+Scores, ranks and criteria come from the published Tradoshi 2027 rankings. The data is released under the CC BY 4.0 license. The method and the update schedule are described at https://tradoshi.com/en/developers.
 
 ## License
 
