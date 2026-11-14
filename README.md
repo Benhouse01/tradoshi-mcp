@@ -8,7 +8,7 @@ Read-only [Model Context Protocol](https://modelcontextprotocol.io) server for t
 | Transport | Streamable HTTP (JSON-RPC 2.0 over POST) |
 | Authentication | None. Every tool is read-only. |
 | Registry name | `com.tradoshi/rankings` |
-| Server version | 1.3.1 |
+| Server version | 1.3.2 |
 | Documentation | https://tradoshi.com/en/developers |
 
 ## Getting started
@@ -141,7 +141,7 @@ Arguments:
 
 ## Data
 
-Scores, ranks and criteria come from the published Tradoshi 2027 rankings: https://tradoshi.com/en/developers explains the method, the update schedule and the terms of use of the data.
+Scores, ranks and criteria come from the published Tradoshi 2027 rankings. The data is released under CC BY 4.0: cite Tradoshi and link to the profile page returned with each result. The method and the update schedule are described at https://tradoshi.com/en/developers.
 
 ## License
 
